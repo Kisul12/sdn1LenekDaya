@@ -19,9 +19,6 @@ const selectTab = (tab) => {
     <div class="container mx-auto px-6">
       <!-- Header -->
       <div class="text-center mb-16 animate-fade-in-down">
-         <div class="inline-block px-4 py-1.5 mb-4 rounded-full bg-blue-100/50 text-blue-600 text-sm font-medium border border-blue-100 backdrop-blur-sm">
-           ✨ Menu Navigasi
-         </div>
          <h1 class="text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-blue-800 to-gray-900 mb-6 tracking-tight">Halaman Profil</h1>
          <p class="text-gray-600 max-w-2xl mx-auto text-lg leading-relaxed">Silakan pilih informasi yang ingin Anda lihat di bawah ini.</p>
       </div>

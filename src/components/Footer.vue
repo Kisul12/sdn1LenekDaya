@@ -27,8 +27,11 @@
         <div class="grid md:grid-cols-3 gap-12 mb-8">
           <div>
             <div class="flex items-center gap-3 mb-4">
-              <div class="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center text-white font-bold text-xl">SD</div>
-              <span class="font-bold text-xl">SD Negeri</span>
+              <img src="/logo_sd.jpeg" alt="Logo SD" class="w-10 h-10 object-contain rounded-lg bg-white/10" />
+              <div class="flex flex-col">
+                <span class="font-bold text-lg leading-tight">SD NEGERI 1</span>
+                <span class="text-xs font-medium tracking-wider text-gray-300">LENEK DAYA</span>
+              </div>
             </div>
             <p class="text-gray-400 text-sm leading-relaxed">
               Membentuk generasi penerus bangsa yang cerdas, kreatif, dan berakhlak mulia.
@@ -38,9 +41,8 @@
           <div>
             <h4 class="text-lg font-bold mb-4 text-secondary">Kontak</h4>
             <ul class="space-y-2 text-sm text-gray-400">
-              <li>📍 Jl. Pendidikan No. 123, Desa Sukamaju</li>
-              <li>📞 (021) 1234-5678</li>
-              <li>✉️ info@sdnegeri.sch.id</li>
+              <li>📍 Jl Dane Rahil Desa Lenek Daya</li>
+              <li>✉️ Sdn1Lenekdaya@gmail.com</li>
             </ul>
           </div>
 

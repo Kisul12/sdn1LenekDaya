@@ -31,9 +31,7 @@ onUnmounted(() => {
     <div class="container mx-auto px-6 flex justify-between items-center relative z-20">
       <!-- Logo -->
       <RouterLink to="/" class="flex items-center gap-3 group" @click="isMobileMenuOpen = false">
-        <div class="w-10 h-10 bg-primary rounded-lg flex items-center justify-center text-white font-bold text-xl shadow-lg group-hover:scale-105 transition-transform">
-          SD
-        </div>
+        <img src="/logo_sd.jpeg" alt="Logo SD" class="w-10 h-10 object-contain rounded-lg shadow-lg group-hover:scale-105 transition-transform" />
         <div class="flex flex-col">
           <span :class="{'text-white': (!isScrolled && isHome && !isMobileMenuOpen), 'text-primary': (isScrolled || !isHome || isMobileMenuOpen)}" class="font-bold text-lg leading-tight transition-colors">SD NEGERI 1</span>
           <span :class="{'text-white/80': (!isScrolled && isHome && !isMobileMenuOpen), 'text-gray-500': (isScrolled || !isHome || isMobileMenuOpen)}" class="text-xs font-medium tracking-wider transition-colors">LENEK DAYA</span>
