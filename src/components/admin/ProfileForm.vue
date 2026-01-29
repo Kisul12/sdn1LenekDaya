@@ -30,7 +30,7 @@ const saveProfile = async () => {
   loading.value = true
   message.value = ''
   try {
-    await api.put('/profile', profile.value)
+    await api.post('/profile', profile.value)
     message.value = 'Profil berhasil diperbarui!'
   } catch (err) {
     console.error(err)

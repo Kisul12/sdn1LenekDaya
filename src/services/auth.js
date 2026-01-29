@@ -17,6 +17,15 @@ export default {
         }
     },
 
+    async fetchUser() {
+        try {
+            const response = await api.get('/auth/me')
+            return response.data
+        } catch (error) {
+            throw error
+        }
+    },
+
     logout() {
         localStorage.removeItem(TOKEN_KEY)
         localStorage.removeItem(USER_KEY)
