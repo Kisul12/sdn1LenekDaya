@@ -12,7 +12,7 @@
 
     <div class="container mx-auto px-6 relative z-10 text-center text-white">
       <div class="inline-block px-4 py-1.5 mb-6 border border-white/30 rounded-full bg-white/10 backdrop-blur-sm text-sm font-medium tracking-wide animate-fade-in-down">
-         🏫 Selamat Datang di Website Resmi
+         🏫 Selamat Datang di Website Resmi SDN 1 Lenek Daya
       </div>
       
       <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg">
@@ -21,7 +21,7 @@
       </h1>
       
       <p class="text-lg md:text-xl text-blue-50 mb-10 max-w-2xl mx-auto leading-relaxed">
-        SD Negeri berkomitmen memberikan pendidikan berkualitas dengan fasilitas terbaik untuk mendukung tumbuh kembang siswa.
+        SDN 1 Lenek Daya berkomitmen memberikan pendidikan berkualitas dengan fasilitas terbaik untuk mendukung tumbuh kembang siswa.
       </p>
       
       <div class="flex flex-col md:flex-row gap-4 justify-center items-center">
