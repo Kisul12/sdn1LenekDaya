@@ -57,7 +57,7 @@
         </div>
         
         <div class="border-t border-white/10 pt-8 text-center text-sm text-gray-500">
-          &copy; 2024 SD Negeri Profile. All rights reserved.
+          &copy; 2026 SD Negeri 1 Lenek Daya. All rights reserved.
         </div>
       </div>
     </footer>
